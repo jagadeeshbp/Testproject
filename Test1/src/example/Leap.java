@@ -4,7 +4,6 @@ public class Leap {
 
 		  public static void main(String[] args) {
 
-		    // year to be checked
 		    int year = 199;
 		    boolean leap = false;
 
